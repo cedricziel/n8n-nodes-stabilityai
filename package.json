@@ -48,7 +48,7 @@
     "eslint": "^8.56.0",
     "eslint-plugin-n8n-nodes-base": "^1.16.3",
     "form-data": "^4.0.1",
-    "gulp": "^4.0.2",
+    "gulp": "^5.0.0",
     "n8n-workflow": "*",
     "prettier": "^3.4.2",
     "typescript": "^5.7.2"
