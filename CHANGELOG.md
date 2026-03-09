@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.7](https://github.com/cedricziel/n8n-nodes-stabilityai/compare/v1.0.6...v1.0.7) (2026-03-09)
+
+
+### Bug Fixes
+
+* **deps:** bump amannn/action-semantic-pull-request from 5 to 6 ([#83](https://github.com/cedricziel/n8n-nodes-stabilityai/issues/83)) ([b070421](https://github.com/cedricziel/n8n-nodes-stabilityai/commit/b070421dcbf9152b4e49a7bf26babccd70bc886e))
+
 ## [1.0.6](https://github.com/cedricziel/n8n-nodes-stabilityai/compare/v1.0.5...v1.0.6) (2025-02-10)
 
 
