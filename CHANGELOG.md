@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.9](https://github.com/cedricziel/n8n-nodes-stabilityai/compare/v1.0.8...v1.0.9) (2026-03-23)
+
+
+### Bug Fixes
+
+* **deps:** bump pnpm/action-setup from 4 to 5 ([#92](https://github.com/cedricziel/n8n-nodes-stabilityai/issues/92)) ([7fb5bdc](https://github.com/cedricziel/n8n-nodes-stabilityai/commit/7fb5bdc95b9834ec5653d714084d364df8d27cc1))
+
 ## [1.0.8](https://github.com/cedricziel/n8n-nodes-stabilityai/compare/v1.0.7...v1.0.8) (2026-03-20)
 
 
