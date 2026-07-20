@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.12](https://github.com/cedricziel/n8n-nodes-stabilityai/compare/v1.0.11...v1.0.12) (2026-07-20)
+
+
+### Bug Fixes
+
+* **deps:** bump actions/setup-node from 6 to 7 ([#148](https://github.com/cedricziel/n8n-nodes-stabilityai/issues/148)) ([5999fd3](https://github.com/cedricziel/n8n-nodes-stabilityai/commit/5999fd3a67f4632554c22cf7a27432fa65b2981a))
+
 ## [1.0.11](https://github.com/cedricziel/n8n-nodes-stabilityai/compare/v1.0.10...v1.0.11) (2026-06-22)
 
 
