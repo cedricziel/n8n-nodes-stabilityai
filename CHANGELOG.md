@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.13](https://github.com/cedricziel/n8n-nodes-stabilityai/compare/v1.0.12...v1.0.13) (2026-09-21)
+
+
+### Bug Fixes
+
+* **deps:** bump actions/checkout from 4 to 7 ([#173](https://github.com/cedricziel/n8n-nodes-stabilityai/issues/173)) ([6ef8b92](https://github.com/cedricziel/n8n-nodes-stabilityai/commit/6ef8b92d6d0c5f469489dac6db5cccf5d3a53cfd))
+
 ## [1.0.12](https://github.com/cedricziel/n8n-nodes-stabilityai/compare/v1.0.11...v1.0.12) (2026-07-20)
 
 
