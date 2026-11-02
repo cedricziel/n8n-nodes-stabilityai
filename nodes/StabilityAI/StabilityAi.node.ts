@@ -1,6 +1,6 @@
 import {
 	NodeApiError,
-	NodeConnectionType,
+	NodeConnectionTypes,
 	type IExecuteFunctions,
 	type INodeExecutionData,
 	type INodeType,
@@ -31,9 +31,9 @@ export class StabilityAi implements INodeType {
 			name: 'StabilityAI',
 		},
 		// eslint-disable-next-line n8n-nodes-base/node-class-description-inputs-wrong-regular-node
-		inputs: [NodeConnectionType.Main],
+		inputs: [NodeConnectionTypes.Main],
 		// eslint-disable-next-line n8n-nodes-base/node-class-description-outputs-wrong
-		outputs: [NodeConnectionType.Main],
+		outputs: [NodeConnectionTypes.Main],
 		credentials: [
 			{
 				name: 'stabilityAiApi',
