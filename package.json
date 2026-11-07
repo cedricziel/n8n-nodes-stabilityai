@@ -28,7 +28,7 @@
     "format": "prettier nodes credentials --write",
     "lint": "eslint nodes credentials package.json",
     "lintfix": "eslint nodes credentials package.json --fix",
-    "prepublishOnly": "pnpm build && pnpm lint -c .eslintrc.prepublish.js nodes credentials package.json"
+    "prepublishOnly": "pnpm build && pnpm lint -c eslint.config.prepublish.mjs nodes credentials package.json"
   },
   "files": [
     "dist"
@@ -43,12 +43,15 @@
     ]
   },
   "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@eslint/js": "^10",
     "@types/node": "^25.3.5",
     "@typescript-eslint/parser": "^8.32.0",
-    "eslint": "^8.56.0",
-    "eslint-plugin-n8n-nodes-base": "^1.16.3",
+    "eslint": "^10.13.0",
+    "eslint-plugin-n8n-nodes-base": "^2.0.0",
     "form-data": "^4.0.1",
     "gulp": "^5.0.1",
+    "jsonc-eslint-parser": "^2",
     "n8n-workflow": "*",
     "prettier": "^3.4.2",
     "typescript": "^5.7.2"
